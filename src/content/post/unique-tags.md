@@ -1,5 +1,5 @@
 ---
-title: "Unique tags validation"
+title: "Coming Soon"
 publishDate: "30 January 2023"
 description: "This post is used for validating if duplicate tags are removed, regardless of the string case"
 tags: ["blog", "blog", "Blog", "test", "bloG", "Test", "BLOG"]
