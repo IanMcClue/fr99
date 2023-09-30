@@ -1,15 +1,15 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "FR99 Blog",
+	"short_name": "FR99",
+	"description": "FR99 blog site",
 	"icons": [
 		{
-			"src": "/192x192.png",
-			"sizes": "192x192",
+			"src": "/99_v2_128.png",
+			"sizes": "128x128",
 			"type": "image/png"
 		},
 		{
-			"src": "/512x512.png",
+			"src": "/99_v2_512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}

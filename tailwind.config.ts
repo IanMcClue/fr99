@@ -4,7 +4,7 @@ import plugin from "tailwindcss/plugin";
 
 export default {
 	content: ["./src/**/*.{astro,html,js,jsx,md,svelte,ts,tsx,vue}"],
-	darkMode: "class",
+	lightMode: "class",
 	corePlugins: {
 		// disable aspect ratio as per docs -> @tailwindcss/aspect-ratio
 		aspectRatio: false,
