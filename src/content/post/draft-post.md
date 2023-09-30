@@ -1,9 +1,17 @@
 ---
 title: "99 Problems"
-description: "This post is for testing the draft post functionality"
+description: "The problems you will encounter being a founder"
 publishDate: "10 Sept 2023"
-tags: ["test"]
+tags: "problems,founder"
 draft: true
 ---
+#99 Probems
 
-If this is working correctly, this post should only be accessible in a dev environment, as well as any tags that are unique to this post.
+> Jay Z famously said I got 99 problems but a b*tch ain't one
+
+To some this might be unsavoury but reassured I interpret the term b*tch,
+as a term of endearment for describing a thorny person. 
+That being said Mr Carter highlighted the daily numerous daily obstacles 
+or problems that he faces but how does he proritise or triage such problems?
+
+One early skill any founder must master early is the art of triaging.
