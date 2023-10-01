@@ -30,5 +30,6 @@ are the vitals for a startup in this example I will cover the fundamentals:
 - User Appeal
 - Capital
 
-The "Founder" sets the vision which in turns determines the strategies and products 
+The "Founder" (ultimately determines the landscape alternayively the so called dangers of the startup)
+sets the vision which in turns determines the strategies and products 
 that will be created within a timeframe. 
