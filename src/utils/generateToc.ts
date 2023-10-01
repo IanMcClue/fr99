@@ -1,3 +1,5 @@
+import type { MarkdownHeading } from "astro";
+
 export function generateToc(headings: ReadonlyArray<MarkdownHeading>) {
 	console.log("All Headings:", headings);
 
