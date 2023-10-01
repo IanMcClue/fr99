@@ -15,6 +15,10 @@ tags: ["prudence", "wisdom", "time"]
 
 > The greatest enemy of any ambitious man is time for its the one quantity that remians unknown from birht but discovered upon death
 
+The artist Titian
+
+![Astro theme cactus logo](./allegory_of_prudence.png)
+
 The Allegory of Prudence a painting by the Titian has a barely visble inscription which says:
 > EX PRÆTE/RITO // PRÆSENS PRVDEN/TER AGIT // NI FVTVRA / ACTIONĒ DE/TVRPET
 
