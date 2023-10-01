@@ -38,6 +38,10 @@ _Exploring both the macro and micro trends of the last quarter of the year for 2
 
 - Local Economy (US&UK)
 - Political 
+
+    Huge social uprising throughout Europe
+    US/UK close to election time 
+
 - Social movements  
 
 ## Micro
