@@ -17,7 +17,7 @@ tags: ["99 allegories","prudence", "wisdom", "time"]
 
 The artist Titian
 
-![Astro theme cactus logo](./allegory_of_prudence.png)
+![Allegory of Prudence](./allegory_of_prudence.png)
 
 One of my favourite paintings for a number of reasons. It contains so many layers
 of thought exploring time and the animalistic qualities of man. Let me guide you through.
