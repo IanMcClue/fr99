@@ -25,11 +25,11 @@ when they first arrive in the scene to assess for Danger, Airways, Breathing and
 are all considered the vitals necessary for the life of a patient. I hear you ask what
 are the vitals for a startup in this example I will cover the fundamentals:
 
-- Founder
+- Domain
 - Human Capital
 - User Appeal
 - Capital
 
-The "Founder" (ultimately determines the landscape alternayively the so called dangers of the startup)
-sets the vision which in turns determines the strategies and products 
-that will be created within a timeframe. 
+The "Domain" (ultimately determines the landscape alternayively the so called dangers of the startup)
+sets the vision which in turns determines what type of product that will be built and in doing so, 
+this will also define the calibre of engineers needed (Human Capital).
