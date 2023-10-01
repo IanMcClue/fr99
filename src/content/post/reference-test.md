@@ -1,15 +1,15 @@
 ---
-title: "Reference Test"
-description: "This is a test for my blog site to see if they I can really create references which will link back to the source"
-publishDate: "01 Oct 2023"
+title: "Idea That Could Make You Rich"
+description: "This is a by no means an exhaustive list but I will do my best to provide a list of ideas that have serious upsides"
+publishDate: "01 Mar 2023"
 tags: ["test"]
-draft: true
 ---
 
-## reference
+## Ideas That Could Make You Rich
 
-As it states in Psalms 23 [^1] man will be lead by the quiet waters
+> Remember any idea without action is worth zero. 
 
-  
+List:
 
-[^1]: [Psalm 23](https://www.biblegateway.com/passage/?search=Psalm%2023&version=KJV)
+- coming soon
+

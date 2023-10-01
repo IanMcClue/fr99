@@ -1,7 +1,7 @@
 ---
 title: "Coming Soon"
 description: "This post is for testing and listing a number of different markdown elements"
-publishDate: "22 Feb 2023"
+publishDate: "02 Feb 2023"
 tags: ["test", "markdown"]
 ---
 
