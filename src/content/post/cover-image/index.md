@@ -21,3 +21,5 @@ Which in english translates to:
 > from the experience of the past, the present acts prudently, lest it spoil future actions
 
 A word to the wise to live by. You see the wise gain projections into the future bu learning from the experience of those before them.
+
+(Tbc)
