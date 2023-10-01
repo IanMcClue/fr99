@@ -7,6 +7,7 @@ coverImage:
   src: "./cover.png"
   alt: "Astro build wallpaper"
 tags: ["prudence", "wisdom", "time"]
+draft: true
 ---
 
 ### The Allegory of Prudence
