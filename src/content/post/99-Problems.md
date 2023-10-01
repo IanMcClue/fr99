@@ -3,7 +3,7 @@ title: "99 Problems"
 description: "The problems you will encounter daily as a startup founder do not be discouraged"
 publishDate: "10 Sept 2023"
 tags: ["problems","founder"]
-draft: true
+
 ---
 ## 99 Probems
 
