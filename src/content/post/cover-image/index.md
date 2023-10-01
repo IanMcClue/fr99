@@ -1,6 +1,6 @@
 ---
 title: "The Allegory of Prudence"
-description: "The Allegory of Prudence, painted by Titian, is a masterful depiction of three heads facing different directions—youth, maturity, and old age. Symbolizing the wise use of time, the triple profile reflects foresight, sagacity, and hindsight. This timeless artwork prompts contemplation on the nuanced dimensions of prudence across the stages of life."
+description: "The Allegory of Prudence, painted by Titian, is a masterful depiction of three heads facing different directions. Symbolizing the wise use of time."
 publishDate: "04 July 2023"
 updatedDate: "14 August 2023"
 coverImage:
