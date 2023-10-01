@@ -8,10 +8,10 @@ coverImage:
   src: "./cover.png"
   alt: "Astro build wallpaper"
 tags: ["prudence", "wisdom", "time"]
-draft: false
+
 ---
 
-### The Allegory of Prudence
+## The Allegory of Prudence
 
 > The greatest enemy of any ambitious man is time for its the one quantity that remians unknown from birht but discovered upon death
 
