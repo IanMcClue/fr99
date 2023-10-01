@@ -1,7 +1,7 @@
 ---
 
 title: "Q4 2023 Report"
-descriptiion: "My inaugrual quarterly reporting, taking a look at both the macro and micro trends observed so far and future predictions"
+description: "My inaugrual quarterly reporting, taking a look at both the macro and micro trends observed so far and future predictions"
 publishDate: "01 Oct 2023"
 tags: ["report","2023","Q4"]
 draft: false 
