@@ -5,7 +5,7 @@ Symbolizing the wise use of time."
 publishDate: "04 July 2023"
 updatedDate: "14 August 2023"
 coverImage:
-  src: "./allegory_of_prudence.png"
+  src: "./Allegory_of _Prudence_pill_outline.png"
   alt: "Allegory of Prudence Painting by Titian"
 tags: ["prudence", "wisdom", "time"]
 
