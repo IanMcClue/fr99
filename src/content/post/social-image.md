@@ -10,6 +10,6 @@ ogImage: "/99_v2_128.png"
 
 Who can resist something thats free. "FR99" is a play on the the 99 cent store a treasure trove for finding deals except this author is providing great ideas at no cost.
 
-> After all the cost of ideas are cheap its the execution thags costly
+> After all the cost of ideas are cheap its the cost of execution thats expensive 
 
 It's a truly honourable ability to share my thoughgs with readers
