@@ -1,12 +1,15 @@
 ---
-title: "Coming Soon"
+title: "FR99"
 publishDate: "27 January 2023"
-description: "An example post for Astro Cactus, detailing how to add a custom social image card in the frontmatter"
-tags: ["example", "blog", "image"]
+description: "Explaining the concept behind the FR99 blog. Exploring everything from the blogs ideation to its practices"
+tags: ["FR99"]
 ogImage: "/99_v2_128.png" 
 ---
 
-## Adding your own social image card to a post
+## FR99 Origins
 
-This post is an example of how to add a custom social image, also known as an OG image, to a blog post.
-By adding the optional ogImage property to the frontmatter of a post, [satori](https://github.com/vercel/satori) won't generate an image for this page.
+Who can resist something thats free. "FR99" is a play on the the 99 cent store a treasure trove for finding deals except this author is providing great ideas at no cost.
+
+> After all the cost of ideas are cheap its the execution thags costly
+
+It's a truly honourable ability to share my thoughgs with readers
