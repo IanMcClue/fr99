@@ -1,6 +1,6 @@
 ---
 title: "FR99"
-publishDate: "27 January 2023"
+publishDate: "3 Feb 2023"
 description: "Explaining the concept behind the FR99 blog. Exploring everything from the blogs ideation to its practices"
 tags: ["FR99"]
 ogImage: "/99_v2_128.png" 
