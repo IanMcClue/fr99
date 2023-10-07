@@ -12,9 +12,9 @@ _George Lakoff_
 
 What this does quote does for me is to help pit in words why it is very hard to actually distill the essence of Essentialism. It's like that feeling you get when, "I just can't put my finger on it moment" this outer-wordly thingy.
 
-### _Intuition > Intellect_ 
+#### _Intuition > Intellect_ 
 
-I love this speech that Steve Jobs gave at Stanford 2005 (know known as the pathos/ethos/logos speech)
+I love this speech that Steve Jobs gave at Stanford 2005 (now known as the pathos/ethos/logos speech)
 
 > Don’t let the noise of others opinions drown out your own inner voice and most important have the courage to follow your heart and intuition they somehow know what you truly want to become everything else is secondary 
 
