@@ -24,4 +24,4 @@ For me essentialism is about developing my gut to the point of which I have deve
 
 Like the idea of "inertness" that essentialism presents things are intrinsically defined by characteristics or qualities.
 
-One key thing to also acknowledge with Essentialism is that the messenger can shift through multiple versions of the same person, all in all to deliver the same message.
+One key thing to also acknowledge with Essentialism is that the message can shift through multiple versions of the same person, all in all to deliver the same message.(will develop this thought further a lot to unpack)
