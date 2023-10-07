@@ -10,7 +10,13 @@ tags: ["essentialism", "philosphy"]
 > make the thing what it is, and without which it would be not that kind of thing
 _George Lakoff_
 
-What does this quotes for me makes it very hard to actually distill the essence of what the said "thing" is, that "I just can't put my finger on it moment" almost this outer-wordly thingy.
+What this does quote does for me is to help pit in words why it is very hard to actually distill the essence of Essentialism. It's like that feeling you get when, "I just can't put my finger on it moment" this outer-wordly thingy.
+
+### _Intuition > Intellect_ 
+
+I love this speech that Steve Jobs gave at Stanford 2005 (know known as the pathos/ethos/logos speech)
+
+> Don’t let the noise of others opinions drown out your own inner voice and most important have the courage to follow your heart and intuition they somehow know what you truly want to become everything else is secondary 
 
 One of the practices of essentialism I enjoy is the need not to define things but to just move with that gut instinctual thought almost as if to achieve ultra instinct. 
 
