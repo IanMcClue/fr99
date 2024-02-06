@@ -1,6 +1,6 @@
 ---
 title: "Madness in the method"
-description: "All you see is the madness but not the method"
+description: "All you see is the madness but not the method - unpacking the brilliance"
 publishDate: "15 Dec 2023"
 tags: ["problems","founder"]
 draft: true 
