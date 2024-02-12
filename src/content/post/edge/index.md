@@ -4,7 +4,7 @@ description: "For we are all born unequal from birth we all have a unique edge, 
 publishDate: "20 Oct 2023"
 tags: ["edge"]
 coverImage:
-  src: "./polyhedral_bw2.png"
+  src: "./polyhedral_bw3.png"
   alt: "polyhedral dice"
 ---
 
