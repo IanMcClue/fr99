@@ -2,6 +2,7 @@
 title: "Investor Founder Fit"
 description: "There's market fit, founder market fit and now investor founder fit a insights found from these conjugate pairs"
 publishDate: "16 Feb 2024"
+updatedDate: "01 Mar 2024"
 tags: ["market","founder","investor"]
 
 ---
@@ -14,3 +15,6 @@ in my humble opinion doomers sometimes seem to be overlooking the concept that t
 
 During the early stages if there are signs and signals there is no need to be so critical all these things can be ironed out so long as the founder is focusing on the fundamentals 
 such as the product and talking to users 
+
+Saw this reat tweet by Jack and I had to add this
+![Jaltma Levels of Investots](./jaltma_hierarchy_of_investors.png)
