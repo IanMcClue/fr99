@@ -9,7 +9,7 @@ tags: ["Mindset","wisdom", "aphorism", "Roman"]
 
 The outcome justifies the deeds. 
 
-> "In order for the good men to protect the world sometimes they must do a little bad"
+> In order for the good men to protect the world sometimes they must do a little bad
 
 On one hand, it can be argued that sometimes, in order for good people to protect the world, they must engage in actions that are morally questionable. This is an extension of the double doctrine effect, where achieving a greater good may require a tradeoff that involves doing something that we would typically consider evil.
 
