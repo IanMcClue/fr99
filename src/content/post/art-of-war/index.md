@@ -30,7 +30,7 @@ thinking about that Bruce Lee quote where his sensei asks about his technique an
 
 Reading about this made me have some questions why can't we both a warrior and gardener why is that this outcome seems mutually exclusive.
 
-Warrior and gardener have to different outcomes(is thus even true) gardener sows to reap (I think itsbacuse we always focus on the bringing life side of the gardener when also there is the cycle of death involved too) I think a warrior is more a strategician and not limiting themselves to range of (inset word) I want to be a strategist put me on Any board and let me figure out the best method of action how to go about this.
+Warrior and gardener have to different outcomes(is thus even true) gardener sows to reap (I think its because we always focus on the bringing life side of the gardener when also there is the cycle of death involved too) I think a warrior is more a strategician and not limiting themselves to range of (inset word) I want to be a strategist put me on Any board and let me figure out the best method of action how to go about this.
 “The Peaceful Warrior”, in which a young apprentice, while training in the use of the Chinese sword, asked his teacher why, if he was striving to be inwardly calm and at peace, he needed to learn the ways of a warrior. “Would it not be more tranquil and serene to be a gardener and tend the plants?” he asked. “Tending the garden,” the master replied, “is a relaxing pastime, but it does not prepare one for the inevitable battles of life. It is easy to be calm in a serene setting. To be calm and serene when under attack is much more difficult; therefore, I tell you that it is far better to be a warrior tending his garden rather than a gardener at war.”
 
 
