@@ -1,9 +1,8 @@
 ---
 title: "How Consumer Internet Has Been Shaping Modern Discourse"
-description: "Uncovering how consumer internet reshapes language. From "snap me" to "gram" and "FYP," explore the linguistic impact of social media on modern speech"
+description: "Uncovering how consumer internet reshapes language. From 'snap me' to 'gram' and 'FYP,' explore the linguistic impact of social media on modern speech"
 publishDate: "11 May 2024"
 tags: ["consumer","internet","lexis"]
-
 ---
 
 ## How Consumer Internet Has Been Shaping Modern Discourse
