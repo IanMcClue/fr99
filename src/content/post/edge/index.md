@@ -1,5 +1,5 @@
 ---
-title: "The Edge"
+title: "Your Edge"
 description: "For we are all born unequal from birth we all have a unique edge, how to use your edge to your advantage"
 publishDate: "20 Oct 2023"
 tags: ["edge"]
@@ -8,7 +8,7 @@ coverImage:
   alt: "polyhedral dice"
 ---
 
-## The Edge
+## Your Edge
 
 > The successful are those that play with loaded dice. Leave nothing to chance
 
