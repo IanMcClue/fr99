@@ -1,6 +1,6 @@
 ---
 title: "Relational Network Structures"
-description: "Relational network structures refer to the complex, interconnected systems that represent entities (nodes) and their interactions (edges) within a defined context."
+description: "Exploring complex networks like social, interest, and affinity graphs that represent nodes and connections in various relational structures."
 publishDate: "08 August 2024"
 tags: ["Art-of-war"]
 
