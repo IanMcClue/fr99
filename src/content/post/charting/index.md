@@ -1,6 +1,6 @@
 ---
 title: "Charting"
-description: "David vs Goliath: taking on the incumbents "
+description: "David vs Goliath: taking on the incumbents and showing it can be done "
 publishDate: "24 October 2024"
 tags: ["App Store","Incumbents", "Underdog"]
 ---
